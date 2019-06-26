@@ -12,7 +12,7 @@
 	branch = develop
 [submodule "crazyradio-firmware"]
 	path = crazyradio-firmware
-	url = https://github.com/pPatrickK/crazyradio-firmware.git
+	url = https://github.com/NataliaOgor/crazyradio-firmware.git
 	branch=flw
 [submodule "crazyflie2-nrf-firmware"]
 	path = crazyflie2-nrf-firmware
