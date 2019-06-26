@@ -1,6 +1,6 @@
 [submodule "crazyflie-firmware"]
 	path = crazyflie-firmware
-	url = https://github.com/pPatrickK/crazyflie-firmware.git
+	url = https://github.com/NataliaOgor/crazyflie-firmware.git
 	branch = flw
 [submodule "crazyflie-lib-python"]
 	path = crazyflie-lib-python
@@ -12,7 +12,7 @@
 	branch = develop
 [submodule "crazyradio-firmware"]
 	path = crazyradio-firmware
-	url = https://github.com/NataliaOgor/crazyradio-firmware.git
+	url = https://github.com/pPatrickK/crazyradio-firmware.git
 	branch=flw
 [submodule "crazyflie2-nrf-firmware"]
 	path = crazyflie2-nrf-firmware
